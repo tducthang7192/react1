@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"thang",
+        "tel":"0931267849",
+        "permisson":1
+    },
+    {
+        "id":2,
+        "name":"trang",
+        "tel":"0931267849",
+        "permisson":3
+    },
+    {
+        "id":3,
+        "name":"thao",
+        "tel":"0931267849",
+        "permisson":2
+    },
+    {
+        "id":4,
+        "name":"bao",
+        "tel":"0931267849",
+        "permisson":3
+    },
+    {
+        "id":5,
+        "name":"nhan",
+        "tel":"0931267849",
+        "permisson":1
+    }
+]
